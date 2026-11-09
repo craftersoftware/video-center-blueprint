@@ -1,7 +1,7 @@
 import Cookies from 'js-cookie';
 
 const common = {
-  repoUrl: 'https://github.com/craftercms/video-center-blueprint'
+  repoUrl: 'https://github.com/craftersoftware/video-center-blueprint'
 };
 
 let site = document.getElementById('studioSiteName').innerHTML;
