@@ -19,21 +19,21 @@ plugin:
     Video Center webapp built with React atop CrafterCMS that is backed by YouTube, AWS Media Service, or Box.
   website:
     name: Video Center
-    url: https://github.com/craftercms/video-center-blueprint
+    url: https://github.com/craftersoftware/video-center-blueprint
   media:
     screenshots:
       - title: Home page
         description: Screenshot of the home page
-        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc1.png
+        url: https://raw.githubusercontent.com/craftersoftware/video-center-blueprint/4/static-assets/images/screenshots/vc1.png
       - title: Featured videos page
         description: Screenshot of the featured videos page
-        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc2.png
+        url: https://raw.githubusercontent.com/craftersoftware/video-center-blueprint/4/static-assets/images/screenshots/vc2.png
       - title: Player page
         description: Screenshot of the player page
-        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc3.png
+        url: https://raw.githubusercontent.com/craftersoftware/video-center-blueprint/4/static-assets/images/screenshots/vc3.png
       - title: Search page
         description: Screenshot of the search page
-        url: https://raw.githubusercontent.com/craftercms/video-center-blueprint/master/static-assets/images/screenshots/vc4.png
+        url: https://raw.githubusercontent.com/craftersoftware/video-center-blueprint/4/static-assets/images/screenshots/vc4.png
   developer:
     company:
       name: CrafterCMS
